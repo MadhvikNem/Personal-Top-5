@@ -6,7 +6,7 @@
     background: #6223D2;
     height: 200vh;
     width: 100vw;
-    position: relative;
+    position: absolute;
     overflow: auto;
   }
  
@@ -15,7 +15,7 @@
     width: 100vw;
     height: 100vh;
     position: absolute;
-    z-index: 2;
+    z-index: 100;
     background: radial-gradient(circle, transparent 0%, rgba(98, 35, 210, 0.85) 100%);
   }
   
@@ -481,4 +481,14 @@
   }
   .shape:nth-child(60) {
     transform: translate(-50%, -125%);
+  }
+
+  #text {
+    z-index: 100;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    left: 150px;
+    top: 350px;
   }
