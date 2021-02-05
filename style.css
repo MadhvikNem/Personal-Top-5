@@ -14,7 +14,7 @@
     background: #6223D2;
     height: 200vh;
     width: 100vw;
-    position: absolute;
+    position: relative;
     overflow: auto;
   }
  
@@ -23,7 +23,7 @@
     width: 100vw;
     height: 100vh;
     position: absolute;
-    z-index: 100;
+    z-index: 2;
     background: radial-gradient(circle, transparent 0%, rgba(98, 35, 210, 0.85) 100%);
   }
   
