@@ -1,26 +1,6 @@
 /* CSS files add styling rules to your content */
 
-body {
-    font-family: helvetica, sans-serif;
-    margin: 2em;
-    background: black; 
-    
-    
-    
-    
-    
-    
-    
-  }
-  
-  h1 {
-    size: 10em;
-    color: white;
-  }
-  p {
-    size: 7em;
-    color: #CCCC00;
-  }
+
   body {
     margin: 0;
     background-color: #6223D2;
@@ -29,7 +9,8 @@ body {
     position: relative;
     overflow: hidden;
   }
-  
+ 
+
   .overlay {
     width: 100vw;
     height: 100vh;
