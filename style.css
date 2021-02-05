@@ -1,0 +1,33 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, sans-serif;
+    margin: 2em;
+    background: black; 
+    
+    
+    
+    
+    
+    
+    
+  }
+  
+  h1 {
+    size: 10em;
+    color: white;
+  }
+  p {
+    size: 7em;
+    color: #CCCC00;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 100%;
+    padding: 5em;
+  }
+  
