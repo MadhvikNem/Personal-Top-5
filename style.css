@@ -3,8 +3,8 @@
 
   body {
     margin: 0;
-    background-color: #6223D2;
-    height: 100vh;
+    background: #6223D2;
+    height: 120vh;
     width: 100vw;
     position: relative;
     overflow: hidden;
