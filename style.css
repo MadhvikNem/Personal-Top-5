@@ -8,6 +8,8 @@
     font-weight: bold;
     left: 150px;
     top: 350px;
+    background-color: #ffffff;
+    opacity: .4;
 }
   body {
     margin: 0;
