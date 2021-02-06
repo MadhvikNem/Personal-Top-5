@@ -9,9 +9,8 @@ text {
     font-weight: bold;
     left: 150px;
     top: 350px;
-    /*background-color: #ffffff;*/
     background-color: #ffff00;
-    opacity: .1;
+      /*opacity: .1;*/
 }
   body {
     margin: 0;
