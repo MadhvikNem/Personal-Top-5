@@ -1,6 +1,8 @@
 /* CSS files add styling rules to your content */
 
 text {
+    background-color: #ffff00;
+    opacity: .4;
     z-index: 100;
     position: absolute;
     color:aqua;
@@ -8,8 +10,7 @@ text {
     font-weight: bold;
     left: 150px;
     top: 350px;
-    background-color: #ffff00;
-    opacity: .4;
+
 }
   body {
     margin: 0;
