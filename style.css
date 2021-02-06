@@ -3,13 +3,12 @@
 text {
     z-index: 100;
     position: absolute;
-    /*color: black;*/
     color:aqua;
     font-size: 24px;
     font-weight: bold;
     left: 150px;
     top: 350px;
-    background-color: #ffffff;
+    background-color: #ffff00;
     opacity: .4;
 }
   body {
