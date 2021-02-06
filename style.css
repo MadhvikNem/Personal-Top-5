@@ -1,6 +1,6 @@
 /* CSS files add styling rules to your content */
 
-#text {
+text {
     z-index: 100;
     position: absolute;
     /*color: black;*/
