@@ -9,7 +9,7 @@ text {
     font-weight: bold;
     left: 150px;
     top: 350px;
-    background-color: #ffff00;
+    background-color: #ffffff;
     opacity: .4;
 }
   body {
@@ -23,7 +23,7 @@ text {
  
 
   .overlay {
-    width: 100vw;
+    width: 10vw;/*100vw;*/
     height: 100vh;
     position: absolute;
     z-index: 2;
