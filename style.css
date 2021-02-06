@@ -10,7 +10,7 @@ text {
     left: 150px;
     top: 350px;
     background-color: #ffff00;
-      /*opacity: .1;*/
+    opacity: .1;
 }
   body {
     margin: 0;
